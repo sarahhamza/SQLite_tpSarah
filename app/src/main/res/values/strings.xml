@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite_tp</string>
+        <string-array name="gender_array">
+            <item>Male</item>
+            <item>Female</item>
+        </string-array>
+</resources>
